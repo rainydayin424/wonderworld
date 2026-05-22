@@ -3,3 +3,4 @@ MIRA 와 Jira를 통해 프로젝트를 관리
 ai agent의 npc(type2)가 있고 게임진행에만 도움이 되는 npc(type1)이 있다.
 ai agent의 발전방향을 동향을 점검.
 phase 2 맵 은 424를 참고
+phase 1에서 이미 충분한 기본 재미가 있어야한다.
